@@ -1,0 +1,16 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Adaca One Light+",
+  "type": "light",
+  "include": "./adaca_one_light.json",
+  "colors": {
+    "editor.background": "#FAFBFC",
+    "sideBar.background": "#F6F8FA",
+    "activityBar.background": "#F1F3F4",
+    "statusBar.background": "#F1F3F4",
+    "titleBar.activeBackground": "#F1F3F4",
+    "panel.background": "#F6F8FA",
+    "tab.inactiveBackground": "#F6F8FA",
+    "editorGroupHeader.tabsBackground": "#F6F8FA"
+  }
+}

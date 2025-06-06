@@ -3,7 +3,7 @@
   "version": "1.101.0",
   "distro": "0110618df4664082ca0cb597c5f9bf66aeed2e35",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Adaca"
   },
   "license": "MIT",
   "main": "./out/main.js",
@@ -227,10 +227,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode.git"
+    "url": "https://github.com/adacahq/adaca-ide.git"
   },
   "bugs": {
-    "url": "https://github.com/microsoft/vscode/issues"
+    "url": "https://github.com/adacahq/adaca-ide/issues"
   },
   "optionalDependencies": {
     "windows-foreground-love": "0.5.0"

@@ -1,0 +1,16 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Adaca One Dark+",
+  "type": "dark",
+  "include": "./adaca_one_dark.json",
+  "colors": {
+    "editor.background": "#0D1B2A",
+    "sideBar.background": "#0F1419",
+    "activityBar.background": "#0A0E13",
+    "statusBar.background": "#0A0E13",
+    "titleBar.activeBackground": "#0A0E13",
+    "panel.background": "#0F1419",
+    "tab.inactiveBackground": "#0F1419",
+    "editorGroupHeader.tabsBackground": "#0F1419"
+  }
+}

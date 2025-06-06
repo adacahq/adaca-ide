@@ -14,6 +14,42 @@
   "contributes": {
     "themes": [
       {
+        "id": "Adaca One Dark",
+        "label": "Adaca One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adaca_one_dark.json"
+      },
+      {
+        "id": "Adaca One Light",
+        "label": "Adaca One Light",
+        "uiTheme": "vs",
+        "path": "./themes/adaca_one_light.json"
+      },
+      {
+        "id": "Adaca One Dark+",
+        "label": "Adaca One Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adaca_one_dark_plus.json"
+      },
+      {
+        "id": "Adaca One Light+",
+        "label": "Adaca One Light+",
+        "uiTheme": "vs",
+        "path": "./themes/adaca_one_light_plus.json"
+      },
+      {
+        "id": "Adaca One High Contrast",
+        "label": "Adaca One High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/adaca_one_hc_black.json"
+      },
+      {
+        "id": "Adaca One High Contrast Light",
+        "label": "Adaca One High Contrast Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/adaca_one_hc_light.json"
+      },
+      {
         "id": "Default Dark+",
         "label": "%darkPlusColorThemeLabel%",
         "uiTheme": "vs-dark",
